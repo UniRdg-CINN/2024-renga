@@ -8,3 +8,5 @@ Summer's passing by and I feel so old
 (But hope remains in my heart)
 
 Hello World :)
+
+Weather at its warmest, red sunsets at their latest : Summer at its finest !
